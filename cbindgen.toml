@@ -1,0 +1,4 @@
+language = "C++"
+
+include_guard = "CHASM_LIB"
+namespace = "chasm"
